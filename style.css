@@ -1,0 +1,73 @@
+*{
+    font-family: sans-serif;
+}
+body{
+    background-color: rgb(255, 223, 248);
+}
+.side {
+    display: inline-block;
+    margin-right: 10px;
+    width: 390px;
+}
+.projeto{
+    background-color: #e0a2ff;
+    border-radius: 20px;
+    padding: 20px;
+    text-align: center;
+    margin-top: 40px;
+}
+.titulo_projeto{
+    background-color: #54027d;
+    color: white;
+    width: 400px;
+    padding: 20px;
+    border-radius: 20px;
+    margin-top: 40px;
+}
+a{
+    color: #b835f9;
+}
+a:hover{
+    color: #54027d;
+}
+P{
+    font-size: 20px;
+    text-align: justify;
+}
+.banner{
+    max-width: 100%;
+    border-radius: 20px;
+}
+
+.button{
+    background-color: #ffffff;
+    width: 100px;
+    padding: 10px;
+    border-radius: 20px;
+    border: none;
+}
+.buttonpurple{
+    background-color: #54027d;
+    width: 100px;
+    padding: 10px;
+    border-radius: 20px;
+    border: none;
+}
+
+.buttonpurple:hover{
+    background-color: #c251fb;
+    width: 100px;
+    padding: 10px;
+    border-radius: 20px;
+    border: none;
+}
+
+.button:hover{
+    background-color: #d5d5d5;
+    color: #ffffff !important;
+    width: 100px;
+    padding: 10px;
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+}
